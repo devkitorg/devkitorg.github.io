@@ -1,4 +1,4 @@
 devkitorg.github.io
 ===================
 
-devkit.orgsite
+www.devkit.org site
